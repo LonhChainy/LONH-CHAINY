@@ -90,6 +90,7 @@ footer {
     background-color: rgb(170, 153, 157);
     margin-left: 15px;
     padding-top: 30px;
+    text-align: center;
 }
 @media  screen and (max-width: 778px) {
     .main-box{

@@ -12,7 +12,7 @@ footer {
     color: rgb(31, 139, 172);
 }
 nav{
-    background:linear-gradient(57deg,#23839b,#6be4ca);
+    background:linear-gradient(57deg,#0f556631,#6be4ca);
     position: fixed;
     width: 97%;
     margin-top: -40px;
@@ -67,7 +67,7 @@ h2{
 h1{
     margin-left: 20px;
     font-size: 50px;
-    color: rgba(242, 245, 239, 0.849);
+    color: rgba(62, 92, 32, 0.63);
     padding: 65px;
 
 }
